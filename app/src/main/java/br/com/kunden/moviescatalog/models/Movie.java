@@ -8,6 +8,7 @@ public class Movie {
     private String genre;
     private String descricao;
     private Integer image;
+    private Integer ID;
 
     public String getTitle() {
         return title;
@@ -54,5 +55,13 @@ public class Movie {
         this.year = year;
         this.genre = genre;
         this.descricao = descricao;
+    }
+
+    public Movie(int ID, String title, String year, String genre, String descricao){
+        this.title = title;
+        this.year = year;
+        this.genre = genre;
+        this.descricao = descricao;
+        this.ID = ID;
     }
 }

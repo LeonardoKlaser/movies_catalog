@@ -7,4 +7,13 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="background">#141414</color>
+    <color name="backgroundSec">#181818</color>
+    <color name="text">#FFFFFFFF</color>
+    <color name="textSec">#B3B3B3</color>
+    <color name="netflix_red">#E50914</color>
+    <color name="ButtonSec">#B81D24</color>
+    <color name="inputBorder">#333333</color>
+    <color name="inputBackground">#2A2A2A</color>
+    <color name="hover">#333333</color>
 </resources>

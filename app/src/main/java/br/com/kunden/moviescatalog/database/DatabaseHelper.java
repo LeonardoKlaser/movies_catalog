@@ -34,7 +34,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
                 MOVIE_TITLE + " VARCHAR(50), " +
                 MOVIE_YEAR + " DATE, " +
                 MOVIE_GENRE + " VARCHAR(50), " +
-                MOVIE_DESCRIPTION + "VARCHAR(255), " +
+                MOVIE_DESCRIPTION + " VARCHAR(255), " +
                 MOVIE_IMAGE + " VARCHAR(255));"
         );
     }
